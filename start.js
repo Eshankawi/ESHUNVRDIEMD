@@ -6,7 +6,7 @@
 
 
 * @project_name ESHUNVRDIEMD
-* @authors Eshan Kawishka & eshubot-team() <https://github.com/prabathLK>
+* @authors Eshan Kawishka & eshubot-team(eshuqueen) <https://github.com/prabathLK>
 * @description The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier
 * @link <https://github.com/prabathLK/PRABATHMD>
 * @version 2.1.3
